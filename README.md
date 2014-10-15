@@ -1,4 +1,4 @@
 Test-Repo1
 ==========
 
-Se ond test of repo
+This is my second repository test with read me file
